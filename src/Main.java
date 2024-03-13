@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Labas pasauly!");
 
         System.out.println("helou");
+        System.out.println("A change was made");
     }
 }
